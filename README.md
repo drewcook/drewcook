@@ -22,7 +22,7 @@ If you find any of this content valuable and want to support me, feel free to do
 
 <p align="center">
 	<a href="https://github.com/drewcook">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewcook&langs_count=8&layout=compact&card_width=250" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewcook&langs_count=8&layout=compact&card_width=260" />
 	</a>
 	<a href="https://github.com/drewcook">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=drewcook&show_icons=true&theme=dracula" />
