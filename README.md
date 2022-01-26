@@ -1,4 +1,4 @@
-# Hi, I'm Drew :wave
+# Hi, I'm Drew :wave:
 
 I'm a fullstack developer working on both Web2 and Web3 projects. I also write and produce music in my spare time.
 
