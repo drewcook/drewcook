@@ -20,12 +20,16 @@ If you find any of this content valuable and want to support me, feel free to do
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/drewcook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drewcook&show_icons=true&theme=dracula" />
-</a>
+<p align="center">
 <a href="https://github.com/drewcook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewcook&langs_count=10&layout=compact" />
 </a>
+<a href="https://github.com/drewcook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drewcook&show_icons=true&theme=dracula" />
+</a>
+</p>
+
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=drewcook.drewcook" alt="visitor count"/></p>
 
 ---
 
