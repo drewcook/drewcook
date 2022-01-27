@@ -16,7 +16,7 @@ If you find any of this content valuable and want to support me, feel free to do
 
 - BTC: _bc1qrc9fv7edgz3zlfnvsuydkhhd26d6dajpquad7a_
 - ETH: _dco.eth_
-- Solana: A7NBUbSWTUFtmj1pLUJeAj7wXUdAeQcdnMdqMibBx4d2
+- Solana: _A7NBUbSWTUFtmj1pLUJeAj7wXUdAeQcdnMdqMibBx4d2_
 - Cardano: _addr1qxtq97hee8cm3hejcgv9g3hz9p32hvlhn0rd6lyru2myxqyfzw8yqdn30d74dvh3acuses65l24r4vtpuy48xx4jxnnsud4r40_
 
 ## My GitHub Stats 📊
