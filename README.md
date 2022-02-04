@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 # Hi, I'm Drew :wave:
 
-I'm a fullstack developer working on both Web2 and Web3 projects. I also write and produce music in my spare time.
+I'm a fullstack developer working on both Web2 and Web3 projects, like [this](https://fundraisers.dco.dev) and [this](https://beerbuddy.io). I also write and produce music in my spare time, like [this](https://ipfs.io/ipfs/QmSMT86QpftE3azkeMagsyJ7ynVZY493VP6XM5eo2scttv/A%20Day%20In%20The%20Life.mp3).
 
 ## 📬 Get in touch
 
