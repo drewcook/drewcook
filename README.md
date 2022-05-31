@@ -3,6 +3,8 @@
 
 I'm a fullstack developer working on both Web2 and Web3 projects, like [this](https://fundraisers.dco.dev) and [this](https://beerbuddy.io). I also write and produce music in my spare time, like [this](https://ipfs.io/ipfs/QmSMT86QpftE3azkeMagsyJ7ynVZY493VP6XM5eo2scttv/A%20Day%20In%20The%20Life.mp3).
 
+I'm currently focused on a couple things: building out [Polyecho][5], a generative music-making NFT platform, and researching and working with zero knowledge proof technologes.
+
 ## Get In Touch 📬
 
 - Web: [dco.dev][1]
@@ -40,3 +42,4 @@ If you find any of this content valuable and want to support me, feel free to do
 [2]: https://www.linkedin.com/in/drewcook2/
 [3]: https://audius.co/dcook
 [4]: https://soundcloud.com/thenotesbetween
+[5]: https://polyecho.xyz
