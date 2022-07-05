@@ -7,10 +7,11 @@ I'm currently focused on a couple things: building out [Polyecho][5], a generati
 
 ## Get In Touch 📬
 
+- LinkTree: [linktr.ee/drew.cook][6]
 - Web: [dco.dev][1]
 - LinkedIn: [linkedin.com/in/drewcook2][2]
-- Audius: [https://audius.co/dcook][3]
-- SoundCloud: [https://soundcloud.com/thenotesbetween][4]
+- Audius: [audius.co/dcook][3]
+- SoundCloud: [soundcloud.com/thenotesbetween][4]
 
 ## Support Me 🤜🏼🤛🏼
 
@@ -43,3 +44,4 @@ If you find any of this content valuable and want to support me, feel free to do
 [3]: https://audius.co/dcook
 [4]: https://soundcloud.com/thenotesbetween
 [5]: https://polyecho.xyz
+[6]: https://linktr.ee/drew.cook
