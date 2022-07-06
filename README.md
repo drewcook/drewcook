@@ -22,7 +22,7 @@ I'm currently interested in a couple areas:
 If you find any of this content valuable and want to support me, feel free to donate some crypto.
 
 - ETH: _dco.eth_
-- BTC: _bc1qrc9fv7edgz3zlfnvsuydkhhd26d6dajpquad7a_
+- BTC: _bc1qhf9s5l7wdxj7xrj2p4duq2gw7fu72u2j6ck7d5_
 - SOL: _N1sKqqVkHgMmyuaNqcbsi8EJXU5Wr8Lv2qnwL6fzQVa_
 
 ## My GitHub Stats 📊
