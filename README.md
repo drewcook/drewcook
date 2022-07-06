@@ -20,7 +20,6 @@ If you find any of this content valuable and want to support me, feel free to do
 - BTC: _bc1qrc9fv7edgz3zlfnvsuydkhhd26d6dajpquad7a_
 - ETH: _dco.eth_
 - SOL: _N1sKqqVkHgMmyuaNqcbsi8EJXU5Wr8Lv2qnwL6fzQVa_
-- ADA: _addr1q9fz8hvdtnxlmmwwxc5q7lsnyg49vld509v4nqf80hz52w5fzw8yqdn30d74dvh3acuses65l24r4vtpuy48xx4jxnnshawsty_
 
 ## My GitHub Stats 📊
 
