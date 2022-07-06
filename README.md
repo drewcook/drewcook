@@ -1,9 +1,13 @@
 <!-- markdownlint-disable -->
 # Hi, I'm Drew 🤙🏼
 
-I'm a fullstack developer working on both Web2 and Web3 projects, like [this](https://fundraisers.dco.dev) and [this](https://beerbuddy.io). I also write and produce music in my spare time, like [this](https://ipfs.io/ipfs/QmSMT86QpftE3azkeMagsyJ7ynVZY493VP6XM5eo2scttv/A%20Day%20In%20The%20Life.mp3).
+I'm a fullstack developer working on both Web2 and Web3 projects, like [this](https://fundraisers.dco.dev) and [this](https://beerbuddy.io).
 
-I'm currently interested in a couple areas: building out [Polyecho][5], a generative music-making NFT platform, and researching and working with zero knowledge proof technologes, mostly zk-SNARKs.
+I also write and produce music in my spare time, like [this](https://ipfs.io/ipfs/QmSMT86QpftE3azkeMagsyJ7ynVZY493VP6XM5eo2scttv/A%20Day%20In%20The%20Life.mp3) and [this](https://ipfs.io/ipfs/QmYxdgasjwXCnbHxaQPZresiiRiURJW3w3tyebNKpdoRJN/Living%20The%20Dream.mp3).
+
+I'm currently interested in a couple areas:
+- Music NFTs: Building out [Polyecho][5], a generative music-making NFT platform
+- ZKPs: Researching and working with zero-knowledge proof technologes, mostly zk-SNARKs.
 
 ## Get In Touch 📬
 
