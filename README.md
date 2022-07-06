@@ -17,8 +17,8 @@ I'm currently focused on a couple things: building out [Polyecho][5], a generati
 
 If you find any of this content valuable and want to support me, feel free to donate some crypto.
 
-- BTC: _bc1qrc9fv7edgz3zlfnvsuydkhhd26d6dajpquad7a_
 - ETH: _dco.eth_
+- BTC: _bc1qrc9fv7edgz3zlfnvsuydkhhd26d6dajpquad7a_
 - SOL: _N1sKqqVkHgMmyuaNqcbsi8EJXU5Wr8Lv2qnwL6fzQVa_
 
 ## My GitHub Stats 📊
