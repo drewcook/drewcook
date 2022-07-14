@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 # Hi, I'm Drew 🤙🏼
 
-I'm a fullstack developer working on both Web2 and Web3 projects, like [this](https://fundraisers.dco.dev) and [this](https://flickfinder.drewcook.dev).
+I'm a fullstack developer working in Web3. :rocket:
 
 I'm currently working full time as a core contributor to the [Aave Protocol](https://app.aave.com).
 
