@@ -5,7 +5,9 @@ I'm a fullstack developer working on both Web2 and Web3 projects, like [this](ht
 
 I also write and produce music in my spare time, like [this](https://ipfs.io/ipfs/QmSMT86QpftE3azkeMagsyJ7ynVZY493VP6XM5eo2scttv/A%20Day%20In%20The%20Life.mp3) and [this](https://ipfs.io/ipfs/QmYxdgasjwXCnbHxaQPZresiiRiURJW3w3tyebNKpdoRJN/Living%20The%20Dream.mp3).
 
-I'm currently interested in a couple areas:
+I'm working full time as a core contributor to the [Aave Protocol](https://app.aave.com).
+
+Outside of Aave, I'm currently interested in a couple areas:
 - Music NFTs: Building out [Polyecho][5], a generative music-making NFT platform
 - ZKPs: Researching and working with zero-knowledge proof technologes, mostly zk-SNARKs.
 
