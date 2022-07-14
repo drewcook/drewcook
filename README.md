@@ -3,9 +3,9 @@
 
 I'm a fullstack developer working in Web3. :rocket:
 
-I'm currently working full time as a core contributor to the [Aave Protocol](https://app.aave.com).
+I'm currently working full-time as a core contributor to the [Aave Protocol](https://app.aave.com), mainly on the [UI](https://github.com/aave/interface).
 
-Outside of Aave, I'm currently interested in a couple areas:
+Outside of Aave, I'm interested in a couple areas:
 - Music NFTs: Building out [Polyecho][5], a generative music-making NFT platform
 - ZKPs: Researching and working with zero-knowledge technologies. I have recently graduated from [Zero-Knowlege University](https://zku.one).
 
@@ -13,8 +13,8 @@ I also write and produce music in my spare time, like [this](https://ipfs.io/ipf
 
 ## Get In Touch 📬
 
-- LinkTree: [linktr.ee/drew.cook][6]
-- Web: [dco.dev][1]
+- Linktree: [linktr.ee/drew.cook][6]
+- Portfolio: [dco.dev][1]
 - LinkedIn: [linkedin.com/in/drewcook2][2]
 - Audius: [audius.co/dcook][3]
 - SoundCloud: [soundcloud.com/thenotesbetween][4]
