@@ -23,9 +23,7 @@ I also write and produce music in my spare time, like [this](https://ipfs.io/ipf
 
 If you find any of this content valuable and want to support me, feel free to donate some crypto.
 
-- ETH: **_dco.eth_** (Ethereum all day, baby!)
-- BTC: **_bc1qhf9s5l7wdxj7xrj2p4duq2gw7fu72u2j6ck7d5_** (not a maxi)
-- SOL: **_N1sKqqVkHgMmyuaNqcbsi8EJXU5Wr8Lv2qnwL6fzQVa_** (yeah, I know...)
+- ETH: **_dco.eth_**
 
 ## My GitHub Stats 📊
 
