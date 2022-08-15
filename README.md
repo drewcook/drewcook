@@ -13,11 +13,10 @@ I also write and produce music in my spare time, like [this](https://ipfs.io/ipf
 
 ## Get In Touch 📬
 
-- Linktree: [linktr.ee/drew.cook][6]
 - Portfolio: [dco.dev][1]
-- LinkedIn: [linkedin.com/in/drewcook2][2]
 - Audius: [audius.co/dcook][3]
 - SoundCloud: [soundcloud.com/thenotesbetween][4]
+- Linktree: [linktr.ee/drew.cook][6]
 
 ## Support Me 🤜🏼🤛🏼
 
