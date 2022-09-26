@@ -26,6 +26,8 @@ I also write and produce music in my spare time, like [this][4] and [this][5].
 <img src="https://visitor-badge.glitch.me/badge?page_id=drewcook.drewcook" alt="visitor count"/>
 </p>
 
+---
+
 - [1]: https://arbor.audio
 - [2]: https://vitalik.ca
 - [3]: https://zku.one
