@@ -9,7 +9,7 @@ I am also a contributor for a few other projects, including one I have co-founde
 
 I really enjoy working on open-source projects and within the Ethereum community.
 
-Hey, I've even implemented the dark mode on Vitalik's blog - just check out this [Tweet][1]! 💪
+Hey, I've even implemented the dark mode on [Vitalik's blog][6] - just check out this [Tweet][1] and the PRs [one][7] & [two][8]! 💪
 
 Outside of DeFi, I'm really interested in a couple areas:
 - Music NFTs: Building out the Arbor Protocol, a generative music-making NFT platform with royalties 🎼
@@ -38,3 +38,6 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 [3]: https://zku.one
 [4]: https://ipfs.io/ipfs/QmSMT86QpftE3azkeMagsyJ7ynVZY493VP6XM5eo2scttv/A%20Day%20In%20The%20Life.mp3
 [5]: https://ipfs.io/ipfs/QmYxdgasjwXCnbHxaQPZresiiRiURJW3w3tyebNKpdoRJN/Living%20The%20Dream.mp3
+[6]: https://vitalik.ca
+[7]: https://github.com/vbuterin/blogmaker/pull/11
+[8]: https://github.com/vbuterin/blog/pull/40
