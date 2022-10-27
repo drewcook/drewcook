@@ -3,13 +3,19 @@
 
 I'm a fullstack developer working in Web3. :rocket:
 
-I'm currently working full-time as a core contributor to the Aave Protocol, mainly on the UI, and also for a few other projects. I've even implemented the dark mode on Vitalik's blog - check out this [Tweet][1]!
+I'm currently working full-time as a core contributor to the [Aave Protocol][0], mainly on the UI. 👻
+
+I am also a contributor for a few other projects, including one I have co-founded, the [Arbor Protocol][2]. 🌳
+
+I really enjoy working on open-source projects and within the Ethereum community.
+
+Hey, I've even implemented the dark mode on Vitalik's blog - just check out this [Tweet][1]! 💪
 
 Outside of DeFi, I'm really interested in a couple areas:
-- Music NFTs: Building out the [Arbor Protocol][2], a generative music-making NFT platform with royalties
-- ZKPs: Researching and working with zero-knowledge technologies. I have recently graduated from [Zero-Knowlege University][3].
+- Music NFTs: Building out the Arbor Protocol, a generative music-making NFT platform with royalties 🎼
+- ZKPs: Researching and working with zero-knowledge technologies. I have recently graduated from [Zero-Knowlege University][3]. 🔐
 
-I also write and produce music in my spare time, like [this][4] and [this][5].
+And when I'm not writing code, I write and produce music in my spare time, creating sounds like [this][4] and [this][5]. 🎵
 
 ## My GitHub Stats 📊
 
@@ -26,6 +32,7 @@ I also write and produce music in my spare time, like [this][4] and [this][5].
 	<img src="https://visitor-badge.glitch.me/badge?page_id=drewcook.drewcook" alt="visitor count"/>
 </p>
 
+[0]: https://aave.com
 [1]: https://twitter.com/VitalikButerin/status/1558079335067799552
 [2]: https://arbor.audio
 [3]: https://zku.one
