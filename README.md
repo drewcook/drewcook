@@ -5,7 +5,9 @@ I'm a fullstack developer working in Web3. :rocket:
 
 I previously was working full-time as a core contributor to the [Aave Protocol][0], mainly on the UI. 👻
 
-I am also a contributor for a few other projects, including one I have co-founded, the [Arbor Protocol][2]. 🌳
+I am also currently contributing to a few other projects, including one I have co-founded, the [Arbor Protocol][2]. 🌳
+
+I am also gaining knowledge and experience in smart contract auditing by working as an auditor with [Secure3][9].
 
 I really enjoy working on open-source projects and within the Ethereum community.
 
@@ -41,3 +43,4 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 [6]: https://vitalik.ca
 [7]: https://github.com/vbuterin/blogmaker/pull/11
 [8]: https://github.com/vbuterin/blog/pull/40
+[9]: https://www.secure3.io/
