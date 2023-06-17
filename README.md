@@ -31,7 +31,7 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 </p>
 
 <p align="center">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=drewcook.drewcook" alt="visitor count"/>
+	<img src="https://visitor-badge.glitch.me/badge?page_id=drewcook.drewcook" alt=""/>
 </p>
 
 [0]: https://aave.com
