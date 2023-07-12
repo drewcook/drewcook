@@ -19,8 +19,6 @@ Outside of DeFi, I'm really interested in a couple areas:
 
 And when I'm not writing code, I write and produce music in my spare time, creating sounds like [this][4] and [this][5]. 🎵
 
-## My GitHub Stats 📊
-
 <p align="center">
 	<a href="https://github.com/drewcook">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewcook&langs_count=8&layout=compact&card_width=260" />
