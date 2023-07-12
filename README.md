@@ -30,10 +30,6 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 	</a>
 </p>
 
-<p align="center">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=drewcook.drewcook" alt=""/>
-</p>
-
 [0]: https://aave.com
 [1]: https://twitter.com/VitalikButerin/status/1558079335067799552
 [2]: https://arbor.audio
