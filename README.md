@@ -3,7 +3,7 @@
 
 I'm a fullstack developer working in Web3. :rocket:
 
-I previously was working full-time as a core contributor to the [Aave Protocol][0], mainly on the UI. 👻
+I have been a full-time core contributor to the [Aave Protocol][0], mainly on the app's UI and utilties packages. 👻
 
 I am also currently contributing to a few other projects, including one I have co-founded, the [Arbor Protocol][2]. 🌳
 
