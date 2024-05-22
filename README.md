@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
-# Hi, I'm Drew 🤙🏼
+# Hi, I'm Drew (dco) 🤙🏼
 
-I'm a fullstack developer working in Web3. :rocket:
+I'm a fullstack developer working in Web3. 🚀
 
-Currently, I'm working on the [Alkimiya Protocol][0] ⏳, where we are building financial markets around the primitive of blockspace.
+Currently, I'm working on the [Alkimiya Protocol][0], where we are building financial markets around the primitive of blockspace. ⏳
 
-Some past impact I've made:
+### Some past impact I've made:
 - Full-time core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
 - Built a winning ETHDenver '22 hackathon project with the [Arbor Protocol][2], a generative music-making NFT platform with royalties baked in
 - Graduated from [Zero-Knowlege University][3] as part of Cohort 3
@@ -15,14 +15,12 @@ Some past impact I've made:
 
 I really enjoy working on open-source projects and being a part of the Ethereum community. 💪
 
-I'm interested in a couple areas:
-- Blockspace Markets (Alkimiya)
-- ZKPs: Researching and working with zero-knowledge technologies and the new crop of use-cases that they can serve
-- Music NFTs - I am a long-time musician and producer outside of engineering, and I believe theres a market to build in here
+### I'm interested in a couple areas:
+- Blockspace Markets
+- ZKPs
+- NFTs for the music industry
 
-When I'm not writing code, I write and produce music in my spare time, creating sounds like [this][8] and [this][9].
-
-Check out my [Audius][10] page! 🎸
+When I'm not writing code, I write and produce music in my spare time, creating sounds like [this][8] and [this][9]. Check out my [Audius][10] page! 🎸
 
 ---
 
