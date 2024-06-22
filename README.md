@@ -3,7 +3,7 @@
 
 I'm a fullstack developer working in Web3 🚀
 
-Currently, I'm building [Alkimiya Protocol][0] with a stellar team. where we are creating financial markets around blockspace primitives like Bitcoin transaction fees and Ethereum base gas fees ⏳
+Currently, I'm building [Alkimiya Protocol][0] with a stellar team! We are creating financial markets around blockspace primitives like Bitcoin transaction fees and Ethereum base gas fees ⏳
 
 ### Some impact I've made previously:
 - Full-time core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
