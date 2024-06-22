@@ -16,7 +16,9 @@ Currently, I'm building [Alkimiya Protocol][0] with a stellar team. where we are
 
 I really enjoy working on open-source projects and being a part of the Ethereum community 💪
 
-When I'm not writing code, I write and produce music in my spare time, creating sounds like [this][8] and [this][9]. Check out my [Audius][10] page 🎸
+When I'm not writing code, I write and produce music in my spare time
+
+Check out my [Audius][10] page 🎸
 
 ---
 
