@@ -3,15 +3,16 @@
 
 I'm a fullstack developer working in Web3. 🚀
 
-Currently, I'm working on the [Alkimiya Protocol][0], where we are building financial markets around the primitive of blockspace. ⏳
+Currently, I'm building [Alkimiya Protocol][0] with a stellar team. where we are creating financial markets around blockspace primitives like Bitcoin transaction fees and Ethereum base gas fees. ⏳
 
-### Some past impact I've made:
+### Some impact I've made previously:
 - Full-time core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
-- Built a winning ETHDenver '22 hackathon project with the [Arbor Protocol][2], a generative music-making NFT platform with royalties baked in
+- Built a winning ETHDenver '22 hackathon project with the [Arbor Protocol][2], a collaborative music NFT platform with royalties
 - Graduated from [Zero-Knowlege University][3] as part of Cohort 3
+- Joined HarmonyZKDAO with an incubation project using ZK, allowing DAO members to contribute to and get paid through Coordinape
 - Launched an NFT collection with [Enlightened Lizards][4] to tap into an existing micro-economy/community around a musical artist
-- Have done smart contract auditing through the [Secure3][5] platform
-- I've even implemented dark mode on [Vitalik's blog][6] (Check out his [tweet][7])
+- Have done smart contract auditing through the [Secure3][5] platform, mostly defi projects
+- I've even implemented dark mode on [Vitalik's blog][6] (Check out his [tweet][7]) 🆒
 
 I really enjoy working on open-source projects and being a part of the Ethereum community. 💪
 
