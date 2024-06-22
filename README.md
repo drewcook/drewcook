@@ -1,9 +1,9 @@
 <!-- markdownlint-disable -->
 # Hi, I'm Drew (dco) 🤙🏼
 
-I'm a fullstack developer working in Web3. 🚀
+I'm a fullstack developer working in Web3 🚀
 
-Currently, I'm building [Alkimiya Protocol][0] with a stellar team. where we are creating financial markets around blockspace primitives like Bitcoin transaction fees and Ethereum base gas fees. ⏳
+Currently, I'm building [Alkimiya Protocol][0] with a stellar team. where we are creating financial markets around blockspace primitives like Bitcoin transaction fees and Ethereum base gas fees ⏳
 
 ### Some impact I've made previously:
 - Full-time core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
@@ -14,9 +14,9 @@ Currently, I'm building [Alkimiya Protocol][0] with a stellar team. where we are
 - Have done smart contract auditing through the [Secure3][5] platform, mostly defi projects
 - I've even implemented dark mode on [Vitalik's blog][6] (Check out his [tweet][7]) 🆒
 
-I really enjoy working on open-source projects and being a part of the Ethereum community. 💪
+I really enjoy working on open-source projects and being a part of the Ethereum community 💪
 
-When I'm not writing code, I write and produce music in my spare time, creating sounds like [this][8] and [this][9]. Check out my [Audius][10] page! 🎸
+When I'm not writing code, I write and produce music in my spare time, creating sounds like [this][8] and [this][9]. Check out my [Audius][10] page 🎸
 
 ---
 
