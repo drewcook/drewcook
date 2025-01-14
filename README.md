@@ -3,7 +3,7 @@
 
 the world needs better systems in place. decentralized blockchain networks solve this.
 
-### some impact I've made so far:
+### some impact i've made so far:
 - full stack development for [Alkimiya][0], a novel defi market centered around network usage
 - a core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
 - built a winning hackathon project at ETHDenver2022 with the [Arbor Protocol][2], a collaborative music NFT platform with royalties
