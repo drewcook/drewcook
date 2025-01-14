@@ -1,24 +1,21 @@
 <!-- markdownlint-disable -->
-# Hi, I'm Drew (dco) 🤙🏼
+# about me
 
-I'm a fullstack developer working in Web3 🚀
+the world needs better systems in place. decentralized blockchain networks solve this.
 
-Currently, I'm building [Alkimiya Protocol][0] with a stellar team! We are creating financial markets around blockspace primitives like Bitcoin transaction fees and Ethereum base gas fees ⏳
+### some impact I've made so far:
+- full stack development for [Alkimiya][0], a novel defi market centered around network usage
+- a core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
+- built a winning hackathon project at ETHDenver2022 with the [Arbor Protocol][2], a collaborative music NFT platform with royalties
+- graduated from [Zero-Knowlege University][3] as part of Cohort 3
+- joined HarmonyZKDAO with an incubation project using ZK, allowing DAO members to contribute to and get paid through Coordinape
+- launched an NFT collection with [Enlightened Lizards][4] to tap into an existing micro-economy/community around a musical artist
+- smart contract auditing through the [Secure3][5] platform, mostly DeFi projects
+- implemented dark mode on [Vitalik's blog][6] (check out his [tweet][7])
 
-### Some impact I've made previously:
-- Full-time core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
-- Built a winning ETHDenver '22 hackathon project with the [Arbor Protocol][2], a collaborative music NFT platform with royalties
-- Graduated from [Zero-Knowlege University][3] as part of Cohort 3
-- Joined HarmonyZKDAO with an incubation project using ZK, allowing DAO members to contribute to and get paid through Coordinape
-- Launched an NFT collection with [Enlightened Lizards][4] to tap into an existing micro-economy/community around a musical artist
-- Have done smart contract auditing through the [Secure3][5] platform, mostly defi projects
-- I've even implemented dark mode on [Vitalik's blog][6] (Check out his [tweet][7]) 🆒
+i really enjoy working on open-source projects and being a part of the Ethereum community
 
-I really enjoy working on open-source projects and being a part of the Ethereum community 💪
-
-When I'm not writing code, I write and produce music in my spare time
-
-Check out my [Audius][10] page 🎸
+when I'm not writing code, i write and produce music in my spare time - check out my [Audius][10] page
 
 ---
 
