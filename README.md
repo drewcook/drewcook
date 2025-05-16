@@ -3,6 +3,8 @@
 
 the world needs better systems in place. decentralized blockchain networks solve this.
 
+i'm currently building frontends at [Noble](https://noble.xyz).
+
 ### some impact i've made so far:
 - full stack development for [Alkimiya][0], a novel defi market centered around network usage
 - a core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
