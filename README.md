@@ -6,6 +6,7 @@ the world needs better systems in place. decentralized blockchain networks solve
 i'm currently building frontends at [Noble](https://noble.xyz).
 
 ### some impact i've made so far:
+- implemented dark mode on [Vitalik's blog][6] (check out his [tweet][7])
 - full stack development for [Alkimiya][0], a novel defi market centered around network usage
 - a core contributor to the [Aave Protocol][1], on the app interface and developer SDKs
 - built a winning hackathon project at ETHDenver2022 with the [Arbor Protocol][2], a collaborative music NFT platform with royalties
@@ -13,7 +14,6 @@ i'm currently building frontends at [Noble](https://noble.xyz).
 - joined HarmonyZKDAO with an incubation project using ZK, allowing DAO members to contribute to and get paid through Coordinape
 - launched an NFT collection with [Enlightened Lizards][4] to tap into an existing micro-economy/community around a musical artist
 - smart contract auditing through the [Secure3][5] platform, mostly DeFi projects
-- implemented dark mode on [Vitalik's blog][6] (check out his [tweet][7])
 
 i really enjoy working on open-source projects and being a part of the Ethereum community
 
